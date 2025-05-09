@@ -1,0 +1,11 @@
+#banner {
+    background: url('../../assets/images/home/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    background-position: center;
+}
+
+#home_page_header {
+    /* background-color: aqua; */
+}

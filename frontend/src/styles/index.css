@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
