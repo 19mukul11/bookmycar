@@ -7,5 +7,7 @@
 }
 
 #home_page_header {
-    /* background-color: aqua; */
+    #logo {
+        font-size: 50px;
+    }
 }

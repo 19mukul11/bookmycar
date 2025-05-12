@@ -1,0 +1,24 @@
+#features_container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#features_parent {
+    display: grid;
+    gap: 50px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+.feature-box {
+    padding: 50px;
+    box-shadow: 0 0 5px 8px lightgray;
+    border-radius: 12px;
+}
+
+.feature-box .feature-img {
+    width: 200px;
+    height: 200px;
+}
